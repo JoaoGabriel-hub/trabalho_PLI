@@ -1,0 +1,6 @@
+instancia,trabalhos,variaveis,restricoes,status,valor_cbc,limitante_cbc,gap_cbc_pct,tempo_cbc_s,otimo_autores,tempo_cplex_s,diferenca
+lars_30_1,26,1230,2117,OPTIMAL,311,311.0,0.0,1563.1,311,50.36,0
+lars_30_2,26,1236,2129,OPTIMAL,517,517.0,0.0,421.1,517,12.67,0
+lars_30_3,26,1350,2357,FEASIBLE,282,309.97,9.92,1800.19,282,22.69,0
+lars_30_4,26,1212,2081,OPTIMAL,203,203.0,0.0,873.81,203,20.43,0
+lars_30_5,26,1554,2765,FEASIBLE,269,336.12,24.95,1800.22,269,71.56,0
